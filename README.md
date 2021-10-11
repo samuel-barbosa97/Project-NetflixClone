@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone 🎞
 Nesse clone do site de streaming Netflix, reproduzi os conceitos básicos da página utilizando HTML, CSS e Javascript através do projeto sugerido pela Digital Innovation One.
 
 Preview
