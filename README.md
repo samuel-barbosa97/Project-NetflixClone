@@ -1,10 +1,23 @@
-# Netflix Clone 🎞
-Nesse clone do site de streaming Netflix, reproduzi os conceitos básicos da página utilizando HTML, CSS e Javascript através do projeto sugerido pela Digital Innovation One.
+<h1 align="center">
+  <img alt="DIO" src="https://hermes.digitalinnovation.one/site/images/logo-white.png" width="120px" />
+</h1>
 
-Preview:
+<h3 align="center">
+  Recriando a interface do Netflix
+</h3>
 
-![netflix](https://user-images.githubusercontent.com/89155684/136439460-ccde135c-e583-4f8b-913c-065dc660d5cc.png)
+<p align="center">Neste projeto é desenvolvido a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Trabalhando em um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.</p>
 
-▶https://digitalinnovation.one/
+## 🚀 Tecnologias
 
-![7](https://user-images.githubusercontent.com/89155684/136717967-baaf216b-f81e-4e27-9374-495ec84e2997.png)
+- 💡 HTML
+- ⚡ CSS 
+- 🕹 JavaScript
+
+## ✋🏻 Pré-requisitos
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
